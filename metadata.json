@@ -1,0 +1,7 @@
+{
+  "name": "VitalLink AI",
+  "description": "An intelligent medical assistant for booking top-rated doctors and coordinating emergency ambulance routing using AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
